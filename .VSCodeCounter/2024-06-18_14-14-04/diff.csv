@@ -1,0 +1,10 @@
+"filename", "language", "TypeScript", "Vue", "comment", "blank", "total"
+"/Users/trumpael/Documents/Learning/LearnVue/project/src/components/Category/index.vue", "Vue", 0, -1, 0, 0, -1
+"/Users/trumpael/Documents/Learning/LearnVue/project/src/directive/has.ts", "TypeScript", 12, 0, 6, 2, 20
+"/Users/trumpael/Documents/Learning/LearnVue/project/src/layout/tabbar/breadcrumb/index.vue", "Vue", 0, -1, 0, 0, -1
+"/Users/trumpael/Documents/Learning/LearnVue/project/src/permission.ts", "TypeScript", -1, 0, 0, 0, -1
+"/Users/trumpael/Documents/Learning/LearnVue/project/src/router/routes.ts", "TypeScript", 4, 0, 4, 3, 11
+"/Users/trumpael/Documents/Learning/LearnVue/project/src/store/modules/types/type.ts", "TypeScript", 1, 0, 0, 0, 1
+"/Users/trumpael/Documents/Learning/LearnVue/project/src/store/modules/user.ts", "TypeScript", 22, 0, 8, 2, 32
+"/Users/trumpael/Documents/Learning/LearnVue/project/src/views/acl/user/index.vue", "Vue", 0, 11, 0, 0, 11
+"Total", "-", 38, 9, 18, 7, 72
